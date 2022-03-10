@@ -1,5 +1,8 @@
 _repo: The-Wilderness-Trail_67418
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67418-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bedford-Jones, H. (Henry)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34930
     wikipedia: https://en.wikipedia.org/wiki/H._Bedford-Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67418#The-Wilderness-Trail
 gutenberg_issued: '2022-02-16'
 identifiers:
   gutenberg: '67418'
